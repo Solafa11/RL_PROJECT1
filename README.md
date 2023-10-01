@@ -13,7 +13,8 @@ the lander’s horizontal position (x-coordinate), the lander’s vertical posit
 velocity (vx), vertical velocity (vy), orientation in space (θ), angular velocity (𝒘), whether the left
 leg is touching the ground (Boolean) and whether the right leg is touching the ground (Boolean).
 
-<img src="https://github.com/Solafa11/Testing2/assets/126588690/d012cfcb-1e94-4d44-9e27-143d694ed222.jpg" width="300" alt="states">
+
+<img src="https://github.com/Solafa11/RL_Project/assets/126588690/9b67dd24-0339-421f-ad06-5eb788e8f9cf.jpg" width="300" alt="states">
 
 
 
