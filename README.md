@@ -27,7 +27,7 @@ There are 4 actions within this environment:
 • 2: Activating the main engine  
 • 3: Activating the right orientation engine  
 
-<img src="https://github.com/Solafa11/Testing2/assets/126588690/c9eddaf7-3a7f-4067-9fbd-343a0e0d16e5.jpg" width="300" alt="actions">
+<img src="https://github.com/Solafa11/RL_Project/assets/126588690/867dca9b-f8a5-47c2-af7b-3aaa3dbd2bea.jpg" width="300" alt="actions">
 
 # Goal
 maintaining an average score of 200 points or greater over a span of 200 consecutive landing attempts.
@@ -38,20 +38,30 @@ DDQN outperforms the DQN as expected
 # Visual illustration of a trained agent playing the game (DDQN)
 . Here is a video of a trained agent playing the game:
 
-https://github.com/Solafa11/Testing/assets/126588690/25761b47-d787-42fd-a52e-e4a104953d8a
+
+https://github.com/Solafa11/RL_Project/assets/126588690/f7adab11-67ae-464e-838c-1dc245374dca
+
 
 
 # Visual illustration of a trained agent playing the game (DQN):
 
 
-https://github.com/Solafa11/Testing2/assets/126588690/54ef4cb5-783d-4537-93cf-1500b1d08595
+
+
+https://github.com/Solafa11/RL_Project/assets/126588690/8811411a-5d49-40a4-8053-6d84a7242892
+
+
 
 
 # Visual illustration of a trained agent playing the game (DDQN using PyTorch):
 
 
 
-https://github.com/Solafa11/Testing2/assets/126588690/39586cdb-71b6-4d09-8478-e0142d127eab
+
+
+https://github.com/Solafa11/RL_Project/assets/126588690/e5748c37-2c96-47aa-8aca-bb9d3d6794e9
+
+
 
 
 
